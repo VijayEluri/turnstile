@@ -1,7 +1,7 @@
 turnstile
 =========
 
-A simple program to demonstrate state transitions.
+A simple Java program to demonstrate state transitions.
 Adapted from Agile Software Development Principles, Patterns and Practices
 Robert C. Martin, copyright 2003 by Pearson Education, Inc.
 
